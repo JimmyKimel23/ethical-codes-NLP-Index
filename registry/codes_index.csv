@@ -1,9 +1,9 @@
 document_id,company_name,country,industry,source_path,source_language,file_format,document_type,review_status
-jp_honda_motor,Honda Motor,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Honda Motor,en,txt,code_of_conduct_or_ethics,completed
-jp_mitsubishi_motors,Mitsubishi Motors,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Mitsubishi Motors.md,en,md,code_of_conduct_or_ethics,completed
-jp_nissan_motor,Nissan Motor,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Nissan Motor.txt,en,txt,code_of_conduct_or_ethics,completed
-jp_suzuki_motor,Suzuki Motor,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Suzuki Motor.txt,en,txt,code_of_conduct_or_ethics,completed
-jp_toyota_motor,Toyota Motor,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Toyota Motor.txt,en,txt,code_of_conduct_or_ethics,completed
+jp_honda_motor,Honda Motor,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Honda Motor,en,txt,code_of_conduct_or_ethics,not_started
+jp_mitsubishi_motors,Mitsubishi Motors,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Mitsubishi Motors.md,en,md,code_of_conduct_or_ethics,not_started
+jp_nissan_motor,Nissan Motor,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Nissan Motor.txt,en,txt,code_of_conduct_or_ethics,not_started
+jp_suzuki_motor,Suzuki Motor,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Suzuki Motor.txt,en,txt,code_of_conduct_or_ethics,not_started
+jp_toyota_motor,Toyota Motor,Japan,automotive,Japan_Ethics_Codes_txt_files/Автопром - Toyota Motor.txt,en,txt,code_of_conduct_or_ethics,not_started
 jp_mufg_group,MUFG Group,Japan,banking,Japan_Ethics_Codes_txt_files/Банкинг - MUFG Group.txt,en,txt,code_of_conduct_or_ethics,not_started
 jp_resona_holdings,Resona Holdings,Japan,banking,Japan_Ethics_Codes_txt_files/Банкинг - Resona Holdings.md,en,md,code_of_conduct_or_ethics,not_started
 jp_sumitomo_mitsui_financial_group,Sumitomo Mitsui Financial Group,Japan,banking,Japan_Ethics_Codes_txt_files/Банкинг - Sumitomo Mitsui Financial Group.txt,en,txt,code_of_conduct_or_ethics,not_started
